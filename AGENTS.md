@@ -1,12 +1,3 @@
----
-agent_context:
-  version: 1
-  groups: []
-  visibility: public
----
-<!-- agent-context:begin sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -->
-<!-- agent-context:end -->
-
 # Conferences
 
 See [README.md](README.md) and [calendar.md](calendar.md).
@@ -28,7 +19,3 @@ as the canonical index. Track each event separately; do not create one recurring
 
 Keep unresolved names and likely annual retreats in `camps.md` with brackets around the
 missing fact. Update `reproduce/README.md` whenever the source list or sync method changes.
-
-See [README.md](README.md) and [AGENTS.md](AGENTS.md). Before changing the event list, ask
-whether to compare it with Google Calendar; do not write calendar events until the target
-calendar and exact official dates are known.
